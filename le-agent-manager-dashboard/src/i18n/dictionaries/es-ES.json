@@ -1,0 +1,111 @@
+{
+
+  "metric_assigned_conversation": "Asignado",
+  "metric_csat": "CSAT",
+  "metric_closed_conversation": "Cerrado",
+  "metric_load": "Cargar",
+  "metric_agent_status": "Estado",
+  "metric_agent_status_duration": "Duración de estado",
+
+  "in_queue_widget_info_tooltip": "El número de conversaciones en la cola que están esperando una asignación del agente.",
+
+  "metric_assigned_conversation_tooltip": "El número de conversaciones abiertas asignadas a agentes con sesión iniciada.",
+  "metric_load_tooltip": "El peso total de las conversaciones asignadas como porcentaje de las conversaciones simultáneas máximas de todos los agentes.",
+  "metric_csat_tooltip": "El porcentaje de preguntas que fueron respondidas con 4 o 5 (dos cuadros superiores) de las respuestas totales enviadas por los consumidores a una pregunta CSAT en el plazo seleccionado.",
+  "metric_closed_conversation_tooltip": "Número de conversaciones cerradas en el plazo seleccionado por el agente, sistema o consumidor.",
+
+  "agent_metric_agent_status_duration_tooltip": "Tiempo desde que el agente cambio su estado por última vez.",
+  "agent_metric_assigned_conversation_tooltip": "El número de conversaciones abiertas que han sido gestionadas por el agente.",
+  "agent_metric_load_tooltip": "El peso total de las conversaciones asignadas dividido por el número máximo configurado del agente de conversaciones de alta intensidad.",
+  "agent_metric_closed_conversation_tooltip": "Número de conversaciones que fueron cerradas dentro del plazo de tiempo seleccionado por el agente, sistema o consumidor mientras el agente era el asignatario.",
+  "agent_metric_csat_tooltip": "El porcentaje de preguntas que fueron respondidas con 4 o 5 (dos cuadros superiores) de las respuestas totales enviadas por los consumidores a una pregunta CSAT en el plazo seleccionado. Atribuido al último agente asignado de la conversación.",
+
+  "agentGroups_filter_placeholder": "Seleccionar grupos",
+  "agentGroups_filter_header": "Filtrar por grupo",
+  "timeframe_filter_header": "Calcular últimas horas:",
+  "timeframe_filter_minimum_range_label": "Ahora",
+  "missing_value_na": "N/A",
+  "time_unit_day_short": "d",
+  "time_unit_hour_short": " h.",
+  "time_unit_minute_short": "m",
+  "time_unit_minute": "mín",
+  "time_unit_second": "seg",
+  "time_unit_day_long": "días",
+  "time_unit_hour_long": "horas",
+  "time_unit_minute_long": "minutos",
+  "time_unit_second_long": "segundos",
+  "time_overdue": "vencido",
+
+  "account_config_unassigned_skill": "No asignado",
+
+  "paging_range_middle_text": "de",
+  "!!!!!!! COMMENTS FOR paging_range_middle_text !!!!!!": "ejemplo: ‎1-50 de 333 conversaciones",
+
+
+
+
+  "header_section_title": "Espacio de trabajo del gestor",
+  "header_section_groups_filter_prefix": "Grupos",
+  "header_section_groups_pre_filter": "Todo",
+  "header_section_timeframe_filter_prefix": "Plazo de tiempo",
+  "header_section_single_time_filter": "última {{selectedHoursRange}} hora",
+  "header_section_time_filter": "últimas {{selectedHoursRange}} horas",
+
+  "conversations_widget_info_tooltip": "La table muestra todas las conversaciones abiertas y las conversaciones que se cerraron en el plazo de tiempo seleccionado. Ordenado por \"Response Time\", de forma que las conversaciones que llevan esperando más tiempo se colocarán en la parte superior de la lista.",
+  "conversations_agent_name_filter_placeholder": "Seleccionar nombre de los agentes",
+  "conversations_agent_name_filter_header": "Filtrar por nombre del agente",
+  "conversations_status_filter_header": "Filtrar por estado",
+  "conversations_unauthenticated_visitor": "Visitante",
+  "conversations_header": "Conversaciones",
+  "conversations_status_all": "Todo",
+  "conversations_column_agent_name": "NOMBRE DEL AGENTE",
+  "conversations_column_visitor": "CONSUMIDOR",
+  "conversations_column_status": "ESTADO",
+  "conversations_column_skill": "HABILIDAD",
+  "conversations_column_response_time": "TIEMPO DE RESPUESTA",
+  "conversations_column_mcs": "MCS",
+  "conversations_column_csat": "CSAT",
+  "conversations_column_nps": "NPS",
+  "conversations_column_agent_name_tooltip": "El nombre del agente asignado a la conversación",
+  "conversations_column_status_tooltip": "Estado de la conversación (esperando en cola, asignada o cerrada).",
+  "conversations_column_skill_tooltip": "La habilidad asignada a la conversación.",
+  "conversations_column_response_time_tooltip": "Tiempo de respuesta - duración del tiempo restante hasta que se requiera una respuesta.",
+  "conversations_column_mcs_tooltip": "Puntuación de conexión significativa",
+  "conversations_column_csat_tooltip": "Puntuación de la satisfacción del cliente",
+  "conversations_column_nps_tooltip": "Puntuación neta del promotor",
+  "conversations_column_status_all": "Todo",
+  "conversations_column_status_in_queue": "En cola",
+  "conversations_column_status_assigned": "Asignado",
+  "conversations_column_status_closed": "Cerrado",
+  "conversations_no_data_label": "No hay datos disponibles",
+  "conversations_no_data_description": "Actualmente no hay conversaciones para los filtros seleccionados.",
+
+  "conversation_status_in_queue": "En cola",
+  "conversation_status_open": "Asignado",
+  "conversation_status_close": "Cerrado",
+
+  "conversation_paging_suffix_label": "conversaciones",
+
+  "conversation_status_in_queue_tooltip": "Conversación en la cola",
+  "conversation_status_open_tooltip": "Conversación asignada al agente",
+  "conversation_status_close_tooltip": "Conversación cerrada",
+
+  "queue_health_skill_filter_placeholder": "Seleccionar habilidades",
+  "queue_health_skill_filter_header": "Filtrar por habilidad",
+  "queue_health_header": "En cola",
+  "queue_health_skills": "habilidades",
+
+
+  "agents_list_header": "Agentes",
+  "agents_list_no_records": "No hay agentes disponibles",
+  "agents_list_no_records_description": "Actualmente no hay agentes conectados al sistema.",
+  "agents_filter_all": "Todo",
+  "agent_status_online": "En línea",
+  "agent_status_back_soon": "Vuelvo en seguida",
+  "agent_status_away": "Ausente",
+
+  "shift_status_header": "Resumen de la actividad",
+
+  "unauthorized_widget_label": "No autorizado",
+  "unauthorized_widget_description": "No está autorizado para ver este contenido"
+}

@@ -1,0 +1,23 @@
+﻿{
+     "CONSUMER_OPEN_NEW_CONVERSATION":                       "Gracias por su mensaje. Un agente debería responder en {expectedResponseTime}.",
+     "CONSUMER_OPEN_NEW_CONVERSATION_FIRST_TIME":            "¡Bienvenido! Estamos encantados de ofrecerle mensajería, que le permite contestarnos en el momento que le venga mejor. Un agente debería responder en . {expectedResponseTime}",
+     "CONSUMER_OPEN_NEW_CONVERSATION_OFF_HOURS":             "Gracias por su mensaje. Nuestro centro de contacto está cerrado en este momento. Un agente debería responder en {expectedResponseTime}.",
+     "CONSUMER_OPEN_NEW_CONVERSATION_FIRST_TIME_OFF_HOURS":  "¡Bienvenido! Aunque nuestro centro de contacto está cerrado actualmente, estamos encantados de ofrecerle mensajería, lo que le permite contestar en el momento que le venga mejor. Un agente debería responder en . {expectedResponseTime}",
+     "AGENT_UPDATED_RESPONSE_TIME":                          "Un agente debería responder en {expectedResponseTime}.",
+     "CONSUMER_ASKED_URGENT_RESPONSE_TIME":                  "Ha marcado esta conversación como urgente. Un agente debería responder en {expectedResponseTime}.",
+     "CONSUMER_CANCELED_URGENT_RESPONSE_TIME":               "Ha marcado esta conversación como no urgente. Un agente debería responder en {expectedResponseTime}.",
+     "CONSUMER_SEND_MESSAGE_ON_OFFHOURS":                    "Lo sentimos, nuestro centro de contacto está cerrado en este momento. Un agente debería responder en {expectedResponseTime}.",
+     "ENGAGEMENT_TRANSFERED":                                "Está siendo transferido a otro agente",
+     "TRANSFER_TO_A_NEW_AGENT":                              "Está siendo transferido a otro agente",
+     "ANOTHER_AGENT_JOINED_CONVERSATION":                    "{agentNickname} se unió a la conversación.",
+     "JOINED_AGENT_LEFT_CONVERSATION":                       "{agentNickname} dejó la conversación.",
+     "CONSUMER_END_CONVERSATION":                            "Esta conversación ha sido resuelta por usted.",
+     "AGENT_END_CONVERSATION":                               "Esta conversación fue resuelta por {agentNickname}.",
+     "CONSUMER_NON_RESPONSIVE":                              "No hemos sabido nada de usted por un tiempo. ¿Hay algo con lo que podamos ayudarle?",
+     "AGENT_NON_RESPONSIVE":                                 "Lo sentimos, se está tardando más de lo esperado para responder. Su agente responderá en breve. ",
+     "CONSUMER_OPEN_CONV_SYSTEM_EXTREME_LOAD":               "Nuestro centro de contacto está muy ocupado, así que sentimos si tiene que esperar más de lo previsto. Un agente responderá tan pronto como sea posible. ",
+     "YOU_ARE_CONNECTED_TO":                                 "Ahora está conectado a {agentNickname}.",
+     "BACK_TO_QUEUE":                                        "Lo sentimos, su agente no puede responder ahora mismo. Otro agente estará con usted en {expectedResponseTime}.",
+     "CONV_AWAITING_IN_QUEUE":                               "Sentimos que los tiempos de espera sean más largos de lo previsto. Será conectado a un agente lo antes posible."
+}
+

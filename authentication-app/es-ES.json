@@ -1,0 +1,14 @@
+{
+  "reset.password.email.title": "Restablecimiento de contraseña de LivePerson",
+  "reset.password.email.dear.username": "Estimado/a {OP_NAME},",
+  "reset.password.email.body": "Ha solicitado restablecer su contraseña de inicio de sesión de LivePerson.<br />Para restablecer su contraseña, haga clic en el botón \"Restablecer contraseña\" y siga las instrucciones.",
+  "reset.password.email.button": "Restablecer contraseña",
+  "reset.password.email.note": "Nota: Por razones de seguridad, este vínculo solo será válido durante un periodo limitado.<br />Si tiene alguna duda o pregunta, consulte el siguiente enlace:",
+  "reset.password.email.regards": "Atentamente,<br>Asistencia de LivePerson",
+
+
+  "reset.password.success.email.dear.user": "Estimado usuario,",
+  "reset.password.success.email.body": "La contraseña para el agente {OP_DISPLAY_NAME} (nombre de inicio de sesión: {OP_LOGIN_NAME}) se ha restablecido correctamente el {DATE}.<br /><br />Su dirección de correo está configurada para recibir notificaciones de restablecimiento de contraseña para esta cuenta de LivePerson.",
+  "reset.password.success.email.further.information": "Para obtener más información o si tiene alguna duda, consulte el siguiente enlace:",
+  "reset.password.success.email.thanks": "Gracias,<br />Asistencia de LivePerson"
+}

@@ -1,0 +1,98 @@
+{
+  "pci_submit_button": {
+    "display_name": "",
+    "translation": "Enviar",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_topsection_title_label": {
+    "display_name": "",
+    "translation": "Éste es un formulario seguro.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_topsection_description_label": {
+    "display_name": "",
+    "translation": "Los detalles proporcionados aquí están protegidos.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_error_required": {
+    "display_name": "",
+    "translation": "Ésta es una pregunta obligatoria.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_error_number": {
+    "display_name": "",
+    "translation": "Sólo pueden usarse números en este campo",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_error_invalid": {
+    "display_name": "",
+    "translation": "Uno o más caracteres introducidos no es válido. No usar: <, >, (, /, \\, ', \", &, )",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_data_too_long_validation": {
+    "display_name": "",
+    "translation": "Las respuestas proporcionadas eran demasiado largas. Cambie sus respuestas o contacte con su agente para obtener ayuda.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_empty_form_submitted": {
+    "display_name": "",
+    "translation": "El formulario no se ha enviado. Por favor, responda a una o más preguntas y envíe el formulario de nuevo.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_no_form_data_error": {
+    "display_name": "",
+    "translation": "No se ha podido cargar el formulario seguro. Contacte con su agente para obtener ayuda.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_secure_form_logo": {
+    "display_name": "",
+    "translation": "Icono de PCI",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_secure_form_logo_title": {
+    "display_name": "",
+    "translation": "Este formulario seguro de conformidad con DSS de PCI.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_secure_form_button_label": {
+    "display_name": "",
+    "translation": "Haga clic para enviar el formulario.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_text_box_hint": {
+    "display_name": "",
+    "translation": "Introduzca el texto aquí",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_numeric_box_hint": {
+    "display_name": "",
+    "translation": "Introduzca el número aquí",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_submission_note": {
+    "display_name": "",
+    "translation": "Nota: una vez enviado el formulario, no se podrá ver la información.",
+    "description": "",
+    "max_chars": 128
+  },
+  "pci_close_icon_title": {
+    "display_name": "",
+    "translation": "Cerrar",
+    "description": "",
+    "max_chars": 128
+  }
+}
